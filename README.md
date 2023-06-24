@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Power-BI-Data-Visualization             |Superstores Data Visualization in Power BI             |https://github.com/Rose-KamauTheAnalyst/Power-BI-Data-Visualization       |
+| 2 | Citi-Bike-Company-Analysis |Citi Bike Company data Analysis using Excel  |https://github.com/Rose-KamauTheAnalyst/Citi-Bike-Company-Analysis      |
+| 3 | ML-Project1            |Machine Learning Model evaluation            |https://github.com/Rose-KamauTheAnalyst/ML-Project1       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
